@@ -4,7 +4,7 @@
 
 ## Установка
 
-1. Клонировать репозиторий: `git clone https://github.com/your_username/random-programming-joke.git`
+1. Клонировать репозиторий: `git clone https://github.com/elkst/Official_Joke_API`
 2. Перейти в директорию проекта: `cd random-programming-joke`
 3. Установить необходимые пакеты: `pip install requests`
 
